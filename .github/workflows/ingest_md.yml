@@ -1,0 +1,24 @@
+name: ARCHE-Metadata-Import
+
+on:
+  workflow_dispatch
+
+jobs:
+  build_pages:
+    name: Ingest Metadata into ARCHE
+    runs-on: ubuntu-latest
+    env:
+      ARCHE_USER: pandorfer
+      ARCHE_PASSWORD: ${{secrets.ARCHE_PASSWORD}}
+      ARCHE: https://arche-curation.acdh-dev.oeaw.ac.at/api
+      TOPCOLID: https://id.acdh.oeaw.ac.at/pmb
+
+    steps:
+    - name: Perform Checkout
+      uses: actions/checkout@v4
+    - name: Download arche.ttl
+      run: ./fetch_data.sh
+    - name: run metadata import
+      run: ./arche__ingest_md.sh
+    
+        

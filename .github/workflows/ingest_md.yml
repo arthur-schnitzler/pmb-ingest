@@ -16,8 +16,6 @@ jobs:
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v4
-    - name: Download arche.ttl
-      run: ./fetch_data.sh
     - name: run metadata import
       run: ./arche__ingest_md.sh
     

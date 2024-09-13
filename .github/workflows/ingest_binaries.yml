@@ -16,8 +16,10 @@ jobs:
     steps:
     - name: Perform Checkout
       uses: actions/checkout@v4
-    - name: Download arche.ttl
+    - name: Download binary data
       run: ./fetch_data.sh
+    - name: remove arche.ttl
+      run: rm to_ingest/arche.ttl
     - name: run binaries import
       run: ./arche__ingest_binaries.sh
     

@@ -22,6 +22,7 @@
     acdh:hasTitle "PMB – People of the Modern Basis"@en;
     acdh:hasDescription """Die PMB ist ein Webservice für Personen, Werke, Institutionen, Orte und Ereignisse speziell für die Zeit in Wien um 1900. Die einfachste Funktion besteht darin, eine gemeinsame Datenbank für verschiedene Projekte zu schaffen. Diese Datensammlung besteht aus Datenextrakten aus der PMB in maschinenlesbaren und menschenlesbaren Formaten wie TEI/XML oder GEXF."""@de ;
     acdh:hasDescription """The PMB is a web service for persons, works, institutions, places and events specifically for the period in Vienna around 1900. The simplest function is to create a common database for various projects. This data collection consists of data extracts from the PMB in machine-readable and human-readable formats such as TEI/XML or GEXF."""@en ;
+    acdh:hasUrl "https://pmb.acdh.oeaw.ac.at" ;
     acdh:hasPrincipalInvestigator <https://d-nb.info/gnd/1050382196> ;
     acdh:hasPrincipalInvestigator <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContact <https://id.acdh.oeaw.ac.at/acdh> ;

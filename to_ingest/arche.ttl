@@ -23,7 +23,7 @@
     acdh:hasDescription """Die PMB ist ein Webservice für Personen, Werke, Institutionen, Orte und Ereignisse speziell für die Zeit in Wien um 1900. Die einfachste Funktion besteht darin, eine gemeinsame Datenbank für verschiedene Projekte zu schaffen. Diese Datensammlung besteht aus Datenextrakten aus der PMB in maschinenlesbaren und menschenlesbaren Formaten wie TEI/XML oder GEXF."""@de ;
     acdh:hasDescription """The PMB is a web service for persons, works, institutions, places and events specifically for the period in Vienna around 1900. The simplest function is to create a common database for various projects. This data collection consists of data extracts from the PMB in machine-readable and human-readable formats such as TEI/XML or GEXF."""@en ;
     acdh:hasUrl "https://pmb.acdh.oeaw.ac.at" ;
-    acdh:hasPid "21.11115/0000-0012-D225-5" ;
+    acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-D225-5" ;
     acdh:hasPrincipalInvestigator <https://d-nb.info/gnd/1050382196> ;
     acdh:hasPrincipalInvestigator <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContact <https://id.acdh.oeaw.ac.at/acdh> ;
@@ -46,7 +46,7 @@
     acdh:hasTitle "Personenregister"@de;
     acdh:hasDescription """TEI/XML Serialisierung der Personeneinträge in der PMB"""@de ;
     acdh:hasUrl "https://pmb.acdh.oeaw.ac.at/apis/entities/entity/person/list/" ; 
-    acdh:hasPid "21.11115/0000-0012-D224-6" ;
+    acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-D224-6" ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/text> ;
     acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/1050382196> ;
@@ -65,7 +65,7 @@
     acdh:hasTitle "Ortsregister"@de;
     acdh:hasDescription """TEI/XML Serialisierung der Ortseinträge in der PMB"""@de ;
     acdh:hasUrl "https://pmb.acdh.oeaw.ac.at/apis/entities/entity/place/list/" ; 
-    acdh:hasPid "21.11115/0000-0012-D223-7" ;
+    acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-D223-7" ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/text> ;
     acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/1050382196> ;
@@ -84,7 +84,7 @@
     acdh:hasTitle "Werkregister"@de;
     acdh:hasDescription """TEI/XML Serialisierung der Werkeinträge in der PMB"""@de ;
     acdh:hasUrl "https://pmb.acdh.oeaw.ac.at/apis/entities/entity/work/list/"; 
-    acdh:hasPid "21.11115/0000-0012-D222-8" ;
+    acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-D222-8" ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/text> ;
     acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/1050382196> ;
@@ -103,7 +103,7 @@
     acdh:hasTitle "Register der Ereignisse"@de;
     acdh:hasDescription """TEI/XML Serialisierung der Ereigniseinträge in der PMB"""@de ;
     acdh:hasUrl "https://pmb.acdh.oeaw.ac.at/apis/entities/entity/event/list/" ; 
-    acdh:hasPid "21.11115/0000-0012-D221-9" ;
+    acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-D221-9" ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/text> ;
     acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/1050382196> ;
@@ -122,7 +122,7 @@
     acdh:hasTitle "Register der Institutionen"@de;
     acdh:hasDescription """TEI/XML Serialisierung der Institutioneneinträge in der PMB"""@de ;
     acdh:hasUrl "https://pmb.acdh.oeaw.ac.at/apis/entities/entity/institution/list/" ; 
-    acdh:hasPid "21.11115/0000-0012-D220-A" ;
+    acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-D220-A" ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/text> ;
     acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/1050382196> ;
@@ -138,7 +138,7 @@
 
 <https://id.acdh.oeaw.ac.at/pmb/title-image.svg> a acdh:Resource ;
     acdh:hasTitle """Titelbild zu: PMB"""@de ;
-    acdh:hasPid "21.11115/0000-0012-D21F-D" ;
+    acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-D21F-D" ;
     acdh:isPartOf <https://id.acdh.oeaw.ac.at/pmb> ;
     acdh:isTitleImageOf <https://id.acdh.oeaw.ac.at/pmb> ;
     acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
@@ -154,7 +154,7 @@
     acdh:isPartOf <https://id.acdh.oeaw.ac.at/pmb> ;
     acdh:hasTitle "PMB-Netzwerk"@de;
     acdh:hasDescription """Die Entitäten der PMB als Netzwerk Graph im GEXF-Format"""@de ;
-    acdh:hasPid "21.11115/0000-0012-D226-4" ;
+    acdh:hasPid "https://hdl.handle.net/21.11115/0000-0012-D226-4" ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/dataset> ;
     acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/1050382196> ;

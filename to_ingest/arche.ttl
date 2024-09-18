@@ -8,7 +8,7 @@
 <https://d-nb.info/gnd/1050382196> a acdh:Person;
     acdh:hasTitle "Müller, Martin Anton"@de .
 
-<https://d-nb.info/gnd/1289549982> a acdh:Person;
+<https://id.acdh.oeaw.ac.at/luntner> a acdh:Person;
     acdh:hasTitle "Untner, Laura"@de .
 
 <https://d-nb.info/gnd/1043833846> a acdh:Person ;
@@ -29,7 +29,7 @@
     acdh:hasCurator <https://d-nb.info/gnd/1043833846> ;
     acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/1050382196> ;
-    acdh:hasContributor <https://d-nb.info/gnd/1289549982> ;
+    acdh:hasContributor <https://id.acdh.oeaw.ac.at/luntner> ;
     acdh:hasContributor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/11082959X> ;  
     acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
@@ -45,9 +45,9 @@
     acdh:hasTitle "Personenregister"@de;
     acdh:hasDescription """TEI/XML Serialisierung der Personeneinträge in der PMB"""@de ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/text> ;
-    acdh:hasDepositor <https://orcid.org/0000-0003-2682-8933> ;
+    acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/1050382196> ;
-    acdh:hasContributor <https://d-nb.info/gnd/1289549982> ;
+    acdh:hasContributor <https://id.acdh.oeaw.ac.at/luntner> ;
     acdh:hasContributor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/11082959X> ;  
     acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
@@ -62,9 +62,9 @@
     acdh:hasTitle "Ortsregister"@de;
     acdh:hasDescription """TEI/XML Serialisierung der Ortseinträge in der PMB"""@de ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/text> ;
-    acdh:hasDepositor <https://orcid.org/0000-0003-2682-8933> ;
+    acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/1050382196> ;
-    acdh:hasContributor <https://d-nb.info/gnd/1289549982> ;
+    acdh:hasContributor <https://id.acdh.oeaw.ac.at/luntner> ;
     acdh:hasContributor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/11082959X> ;  
     acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
@@ -79,9 +79,9 @@
     acdh:hasTitle "Werkregister"@de;
     acdh:hasDescription """TEI/XML Serialisierung der Werkeinträge in der PMB"""@de ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/text> ;
-    acdh:hasDepositor <https://orcid.org/0000-0003-2682-8933> ;
+    acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/1050382196> ;
-    acdh:hasContributor <https://d-nb.info/gnd/1289549982> ;
+    acdh:hasContributor <https://id.acdh.oeaw.ac.at/luntner> ;
     acdh:hasContributor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/11082959X> ;  
     acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
@@ -96,9 +96,9 @@
     acdh:hasTitle "Register der Ereignisse"@de;
     acdh:hasDescription """TEI/XML Serialisierung der Ereigniseinträge in der PMB"""@de ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/text> ;
-    acdh:hasDepositor <https://orcid.org/0000-0003-2682-8933> ;
+    acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/1050382196> ;
-    acdh:hasContributor <https://d-nb.info/gnd/1289549982> ;
+    acdh:hasContributor <https://id.acdh.oeaw.ac.at/luntner> ;
     acdh:hasContributor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/11082959X> ;  
     acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
@@ -113,9 +113,9 @@
     acdh:hasTitle "Register der Institutionen"@de;
     acdh:hasDescription """TEI/XML Serialisierung der Institutioneneinträge in der PMB"""@de ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/text> ;
-    acdh:hasDepositor <https://orcid.org/0000-0003-2682-8933> ;
+    acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/1050382196> ;
-    acdh:hasContributor <https://d-nb.info/gnd/1289549982> ;
+    acdh:hasContributor <https://id.acdh.oeaw.ac.at/luntner> ;
     acdh:hasContributor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasContributor <https://d-nb.info/gnd/11082959X> ;  
     acdh:hasLicense <https://vocabs.acdh.oeaw.ac.at/archelicenses/cc-by-4-0> ;
@@ -134,6 +134,6 @@
     acdh:hasCreator <https://id.acdh.oeaw.ac.at/slehecka> ;
     acdh:hasOwner <https://id.acdh.oeaw.ac.at/acdh> ;
     acdh:hasCategory <https://vocabs.acdh.oeaw.ac.at/archecategory/image> ;
-    acdh:hasDepositor <https://orcid.org/0000-0003-2682-8933> ;
+    acdh:hasDepositor <https://d-nb.info/gnd/1043833846> ;
     acdh:hasMetadataCreator <https://d-nb.info/gnd/1043833846> ;
     acdh:hasRightsHolder <https://id.acdh.oeaw.ac.at/oeaw> .

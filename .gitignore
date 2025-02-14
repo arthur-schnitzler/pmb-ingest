@@ -163,3 +163,4 @@ cython_debug/
 *.xml
 *.gexf
 /fc_out
+rdf/person.ttl

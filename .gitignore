@@ -164,3 +164,4 @@ cython_debug/
 *.gexf
 /fc_out
 rdf/person.ttl
+.secret
